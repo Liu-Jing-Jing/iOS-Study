@@ -5,6 +5,12 @@
   - AutoLayout 学习资料整理https://blog.csdn.net/sunnyboy9/article/details/53028087
   - Cocoapod 错误解决办法 Runtime Error:https://www.jianshu.com/p/1f59361d34b7
 
+Git commit消息的规范  https://www.cnblogs.com/daysme/p/7722474.html#_label0
+
+
+
+
+
 // Gitee
 
 bolinyindeiMac:.ssh bolinyin$ $ ssh-keygen -t rsa -C "1515352281@qq.com"
