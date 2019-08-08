@@ -13,5 +13,6 @@
 
 网络请求和HTTPTool这一块还需要有更多的积累
 Block的学习和GCD需要重复的学习 Objective-C 高级编程
-开始学习多线程和AsyncDisplayKit.使用多线程绘制界面和列表
+开始学习多线程的相关技术
+使用多线程绘制界面和列表AsyncDisplayKit.
 
